@@ -1,2 +1,2 @@
-# Budget-Tool-ReactJS
- Household budget tool created using React JS
+# Budget Tool
+ Household Budget Tool created using React JS
