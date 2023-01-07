@@ -2,7 +2,7 @@
 
  Household Budget Tool created with React JS
  
- Using React Forms Hook, submit sends form data as a JSON objeect to the console
+ Using React Forms Hook, submit sends form data as a JSON object to the console
 
 # Getting Started
 
